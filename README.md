@@ -1,5 +1,7 @@
 #Integrantes
 
-*Serrano Mariano 
-*De Paoli Nahuel 
-*Miño Federico
+*Serrano Mary 
+*De Paoli Nahy 
+*Miñy Federico
+*Tixi
+*Almy
