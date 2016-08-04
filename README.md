@@ -1,7 +1,7 @@
 #Integrantes
 
-*Serrano Mary 
-*De Paoli Nahy 
-*Miñy Federico
-*Tixi
-*Almy
++Serrano Mary 
++De Paoli Nahy 
++Miñy Federico
++Tixi
++Almy
